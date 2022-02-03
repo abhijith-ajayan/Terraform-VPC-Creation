@@ -6,7 +6,7 @@ Using this Script i'm creating a VPC with 6 subnets(3 public and 3 private) alon
 
 # Architecture
 
-![](https://ibb.co/ZcCRxGJ)
+![](https://i.ibb.co/ZcCRxGJ/68747470733a2f2f692e6962622e636f2f73777a4a4a726e2f7670632e706e67.png)
 
 # Terraform
 
