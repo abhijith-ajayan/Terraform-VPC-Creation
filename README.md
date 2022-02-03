@@ -87,7 +87,7 @@ variable "type" {
 
 ```
 
-## 3. Fetching Availability Zones in working AWS region
+## 3. Fetching Availability Zones and AMI id in the working AWS region
 
 ```sh
 vim sourcefile.tf
