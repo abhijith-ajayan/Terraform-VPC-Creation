@@ -34,6 +34,7 @@ on linux_amd64
 
 - Create an IAM user on your AWS console that have access to create the required resources.
 - Create a dedicated directory where you can create terraform configuration files.
+- Create a key pair using ssh-keygen command and save the files in this terraform directory
 
 
 
